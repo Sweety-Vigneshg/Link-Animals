@@ -1,7 +1,8 @@
-在线玩：https://gd4ark.github.io/linkup
+##Link-Animals ( Pair Matching Game )
 
-游戏截图：
+Play Here：
+https://sweety-vigneshg.github.io/Link-Animals/
 
 ![](https://ws1.sinaimg.cn/large/006mS5wEgy1g0hquh67twj31jk0uadu5.jpg)
 
-如对您有帮助，欢迎Star！😋
+If You Enjoy it! Give a Star！! 😋
