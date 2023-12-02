@@ -1,4 +1,4 @@
-##Link-Animals ( Pair Matching Game )
+Link-Animals OR Pair Matching Game
 
 Play Here：
 https://sweety-vigneshg.github.io/Link-Animals/
